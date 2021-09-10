@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+:woman_technologist: I have been working for more than **6 years** in Testing.
+:woman_student: Currently I'm studying automation tools and techniques at **QA.guru school**.
+
 <!--
 **TanyaRaik/TanyaRaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
