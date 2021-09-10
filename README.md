@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 :woman_technologist: I have been working for more than **6 years** in Testing.
+
 :woman_student: Currently I'm studying automation tools and techniques at **QA.guru school**.
 
 <!--
