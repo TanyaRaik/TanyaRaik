@@ -4,6 +4,8 @@
 
 :woman_student: Currently I'm studying automation tools and techniques at **QA.guru school**.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TanyaRaik&theme=buefy&show_icons=true&locale=en" alt="TanyaRaik" /></p>
+
 <!--
 **TanyaRaik/TanyaRaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
